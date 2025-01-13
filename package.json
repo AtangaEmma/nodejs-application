@@ -26,13 +26,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LandmakTechnology/nodejs-application"
+    "url": "https://github.com/Solavisetech-Team/nodejs-application"
   },
   "keywords": [
     "node",
-    "Landmark Technologies",
+    "Solavise Technologies",
     "express"
   ],
-  "author": "Simon Legah",
-  "license": "MyLandmarkTech"
+  "author": "Prof Atanga",
+  "license": "SolaviseTech"
 }
